@@ -3,9 +3,9 @@
 }
   
 body {
-  background-color: #ffff99;
+  background-color: #797979;
 }
-  
+
 h2 + h1 {
   background-color: #ffff99;
 }
@@ -17,4 +17,15 @@ ul,p {
 ol,li {
   background-color: #ffff99;
 }
-  
+
+h1,h2 {
+  background-color: #ffff99;
+}
+
+main {
+  background-color: #ffff99;
+}
+
+footer {
+  background-color: #ffff99;
+}
